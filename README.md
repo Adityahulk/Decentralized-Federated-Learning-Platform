@@ -46,6 +46,7 @@ This GitHub repository serves as a central hub for collaboration, development, a
 
 - [IPFS Documentation](https://docs.ipfs.io/)
 - [Ethereum Developer Documentation](https://ethereum.org/developers/)
-- [Scikit-Learn Documentation for Federated Learning](https://scikit-learn.org/stable/modules/federated_learning.html)
+- [Resources for Federated Learning](https://github.com/weimingwill/awesome-federated-learning)
+- [Polygon Developer Documentation](https://docs.polygon.technology/)
 
 Feel free to explore the code, contribute, and engage with the community to shape the future of decentralized federated learning.
