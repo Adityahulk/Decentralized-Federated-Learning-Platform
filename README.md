@@ -1,7 +1,5 @@
 # Decentralized-Federated-Learning-Platform
 
-# Decentralized Federated Learning Platform
-
 ## Description
 
 Welcome to the Decentralized Federated Learning Platform GitHub repository! This project presents a proof of concept (PoC) for a decentralized federated learning platform leveraging cutting-edge technologies such as web3.0, IPFS (InterPlanetary File System), and smart contracts deployed on blockchain networks like Ethereum. Unlike traditional federated learning approaches that rely on centralized servers for model aggregation, our platform promotes decentralization and data privacy by distributing model training across participating worker nodes while ensuring the integrity of the process through smart contracts.
